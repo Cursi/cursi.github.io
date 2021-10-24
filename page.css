@@ -33,5 +33,13 @@ html {
 }
 
 #CompetitionImage {
-    background-color:black;
+  background-color: black;
+}
+
+#KeyMetricsList {
+  text-align: left;
+}
+
+.AlignLeft {
+  text-align: left;
 }
