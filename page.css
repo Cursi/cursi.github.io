@@ -1,4 +1,37 @@
-body {
-    background-color :yellow;
+html {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
-    
+
+#AppName {
+  text-align: center;
+  font-size: 32px;
+}
+
+.ParticipantsImages {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+}
+
+.ParticipantsImagesWrapper {
+  text-align: center;
+  display: inline-block;
+}
+
+.CenterAlignForParticipantsImages {
+  text-align: center;
+}
+
+.TextClass {
+  font-size: 18px;
+  text-align: center;
+}
+
+.CompetitionImages {
+  width: 150px;
+  margin: 20px;
+}
+
+#CompetitionImage {
+    background-color:black;
+}
