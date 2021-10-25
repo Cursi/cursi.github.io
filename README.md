@@ -1,2 +1,2 @@
 # Proiect_DSS
-TODO
+This is the FiKi for Limpid startup for DSS.
