@@ -105,8 +105,15 @@ a
 }
 
 .ProofImages{
-  width: 200px;
-  /* height: 120px; */
-  /* border-radius: 50%; */
+  width: 15%;
+  border-radius: 5%;
+  /* border-color: blanchedalmond; */
+  /* border-style: solid; */
+  /* border-width: 10px; */
   /* margin-bottom: 10px; */
+}
+
+.CenterAlignForProofsImages {
+  text-align: center;
+  /* background: rgb(57, 56, 80); */
 }
