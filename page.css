@@ -98,3 +98,8 @@ a
 .AlignLeft {
   text-align: left;
 }
+
+.Tab {
+  text-indent: 2%;
+  padding-bottom: 0.5%;
+}
