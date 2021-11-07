@@ -105,8 +105,8 @@ a
 }
 
 .ProofImages{
-  width: 15%;
-  border-radius: 5%;
+  width: 300px;
+  border-radius: 20px;
   /* border-color: blanchedalmond; */
   /* border-style: solid; */
   /* border-width: 10px; */
@@ -115,5 +115,52 @@ a
 
 .CenterAlignForProofsImages {
   text-align: center;
-  /* background: rgb(57, 56, 80); */
+  display: inline-block;
+  padding: 20px;
+}
+
+.BlueText{
+  font-weight: bold;
+  color:blue;
+  font-size: 20px;
+  text-align: center;
+  width: 95%;
+  margin-left:2.5%;
+  padding-top: 30px;
+}
+
+.ChartImages{
+  width: 800px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.BigBlackBoldText{
+  font-size: 26px;
+  margin-bottom: 12px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.BlueTextLeft{
+  font-weight: bold;
+  color:blue;
+  font-size: 20px;
+  text-align: left;
+  width: 95%;
+  margin-left:2.5%;
+  padding-top: 30px;
+  text-indent: 2%;
+  padding-bottom: 5px;
+}
+
+.BlueTextParagraph{
+  font-weight: bold;
+  color:blue;
+  font-size: 20px;
+  text-align: left;
+  width: 95%;
+  margin-left:2.5%;
+  text-indent: 2%;
+  padding-bottom: 5px;
 }
