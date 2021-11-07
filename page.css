@@ -143,8 +143,8 @@ a
 }
 
 .BlueTextLeft{
-  font-weight: bold;
-  color:blue;
+  /* font-weight: bold; */
+  color:black;
   font-size: 20px;
   text-align: left;
   width: 95%;
@@ -155,12 +155,17 @@ a
 }
 
 .BlueTextParagraph{
-  font-weight: bold;
-  color:blue;
+  /* font-weight: bold; */
+  color:black;
   font-size: 20px;
   text-align: left;
   width: 95%;
   margin-left:2.5%;
   text-indent: 2%;
   padding-bottom: 5px;
+}
+
+.SmallerWindow{
+  width: 80%;
+  margin-left: 10%;
 }
